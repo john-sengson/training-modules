@@ -1,9 +1,13 @@
 import React from 'react'
+//import { Route } from 'react-router-dom'
+
+
+import Header from './Header'
 
 const App = () => {
   return (
-    <h1>Noel Leeming Training</h1>
-    <h2>This is a test</h2>
+         <Header />
+
   )
 }
 
